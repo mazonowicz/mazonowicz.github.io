@@ -9,12 +9,10 @@ name: Mazonowicz
 description: Personal Site of Alex Mazonowicz
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/mazonowicz_logos.png
-
+avatar: https://raw.githubusercontent.com/mazonowicz/master/images/mazonowicz_logos.png
 #
 # Flags below are optional
 #
-remote_theme: mazonowicz/journal_theme/Journal
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
