@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I live in New Zealand, I like bicycling, walking and taking photographs. I like other stuff too, but this is just a place to share some pictures and stories.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[alex@mazonowicz.com](mailto:alex@mazonowicz.com)
