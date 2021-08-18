@@ -19,8 +19,6 @@ In June 2021 I went on a 3 week Outward Bound course in the Marlborough Sounds. 
 
 ![alt text](https://ucarecdn.com/0b295896-1930-492b-848b-438f80cf1562/-/preview/-/quality/smart/ "In a haunted school")
 
-![alt text](https://ucarecdn.com/53f0b51b-205a-49ab-a8ac-ace9297eea1f/-/preview/-/quality/smart/ "In a haunted school 2")
-
 ![alt text](https://ucarecdn.com/193d4bdc-b595-4425-9566-b5e7b123c4e5/-/preview/-/quality/smart/ "On the wharf")
 
 ![alt text](https://ucarecdn.com/2bb98cc2-2bbb-4336-8273-98a940c37e9f/-/preview/-/quality/smart/ "Mistletoe Bay")
