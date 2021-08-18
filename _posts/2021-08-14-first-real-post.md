@@ -33,7 +33,7 @@ In June 2021 I went on a 3 week Outward Bound course in the Marlborough Sounds. 
 
 ![alt text](https://ucarecdn.com/ae5c19e6-3a35-4c3a-a1c3-d434eaa2ea73/-/preview/-/quality/smart/ "On Mt Dunn")
 
-![alt text](ttps://ucarecdn.com/fec880f4-63de-4be7-8859-77d0ce710e11/-/preview/-/quality/smart/ "Barb & Lisa on Mt Dunn")
+![alt text](https://ucarecdn.com/fec880f4-63de-4be7-8859-77d0ce710e11/-/preview/-/quality/smart/ "Barb & Lisa on Mt Dunn")
 
 ![alt text](https://ucarecdn.com/fa283882-68d5-4a67-a561-66e797fd0b3b/-/preview/-/quality/smart/ "Coming down Mt Dunn")
 
