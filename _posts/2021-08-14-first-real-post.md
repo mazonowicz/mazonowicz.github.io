@@ -7,6 +7,8 @@ In June 2021 I went on a 3 week Outward Bound course in the Marlborough Sounds. 
 
 ![alt text](https://ucarecdn.com/5137e2ba-4910-41d7-a117-a6ba7920ac3d/-/preview/-/quality/smart/ "The wharf")
 
+![alt text](https://ucarecdn.com/6db94c16-de2b-4de1-b286-b6d767d1c65e/-/preview/-/quality/smart/ "The truck at start of the Big Walk")
+
 ![alt text](https://ucarecdn.com/6fc82855-e592-43d7-9878-79879e700088/-/preview/-/quality/smart/ "Our first expedition")
 
 ![alt text](https://ucarecdn.com/f3546867-c555-4a5a-9c45-b870996d2575/-/preview/-/quality/smart/ "Our first expedition 2")
@@ -22,8 +24,6 @@ In June 2021 I went on a 3 week Outward Bound course in the Marlborough Sounds. 
 ![alt text](https://ucarecdn.com/193d4bdc-b595-4425-9566-b5e7b123c4e5/-/preview/-/quality/smart/ "On the wharf")
 
 ![alt text](https://ucarecdn.com/2bb98cc2-2bbb-4336-8273-98a940c37e9f/-/preview/-/quality/smart/ "Mistletoe Bay")
-
-![alt text](https://ucarecdn.com/6db94c16-de2b-4de1-b286-b6d767d1c65e/-/preview/-/quality/smart/ "The truck at start of the Big Walk")
 
 ![alt text](https://ucarecdn.com/033880e5-b674-4f8b-b2e5-87b7c0087ce5/-/preview/-/quality/smart/ "The start of the Big Walk")
 
