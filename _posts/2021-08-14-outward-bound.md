@@ -3,7 +3,7 @@ published: true
 ---
 ## June 2021 - Photos
 
-I went on a 3 week Outward Bound course in the Marlborough Sounds and took some photos...
+I went on a 3 week Outward Bound course in the Marlborough Sounds and took some pictures...
 
 ![alt text](https://ucarecdn.com/5137e2ba-4910-41d7-a117-a6ba7920ac3d/-/preview/-/quality/smart/ "The wharf")
 
