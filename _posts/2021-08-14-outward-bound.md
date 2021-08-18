@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## June 2021 Photos
+## June 2021 - Photos
 
 I went on a 3 week Outward Bound course in the Marlborough Sounds and took some photos...
 
