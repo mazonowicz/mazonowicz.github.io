@@ -7,11 +7,15 @@ I went on a 3 week Outward Bound course in the Marlborough Sounds and took some 
 
 ![alt text](https://uatereig.sirv.com/Outward%20Bound/outward_bound-6100059.jpg "The wharf")
 
+![alt text](https://uatereig.sirv.com/Outward%20Bound/outward_bound-6070004.jpg "The first morning")
+
 ![alt text](https://uatereig.sirv.com/Outward%20Bound/outward_bound-6080010.jpg "The truck at start of the Big Walk")
 
 ![alt text](https://uatereig.sirv.com/Outward%20Bound/outward_bound-6080012.jpg "Our first expedition")
 
 ![alt text](https://uatereig.sirv.com/Outward%20Bound/outward_bound-6080017.jpg "Our first expedition 2")
+
+![alt text](https://uatereig.sirv.com/Outward%20Bound/outward_bound-6080038.jpg "Our first expedition 3")
 
 ![alt text](https://uatereig.sirv.com/Outward%20Bound/outward_bound-6080039.jpg "Alice & Heather on the first big walk")
 
@@ -19,7 +23,11 @@ I went on a 3 week Outward Bound course in the Marlborough Sounds and took some 
 
 ![alt text](https://uatereig.sirv.com/Outward%20Bound/outward_bound-6120074.jpg "Outside the haunted school")
 
+![alt text](https://uatereig.sirv.com/Outward%20Bound/outward_bound-6110069.jpg "Inside the haunted school")
+
 ![alt text](https://uatereig.sirv.com/Outward%20Bound/outward_bound-6100061.jpg "On the wharf")
+
+![alt text](https://uatereig.sirv.com/Outward%20Bound/outward_bound-6100064.jpg "Reflection day")
 
 ![alt text](https://uatereig.sirv.com/Outward%20Bound/outward_bound-6130077.jpg "Mistletoe Bay")
 
@@ -37,8 +45,12 @@ I went on a 3 week Outward Bound course in the Marlborough Sounds and took some 
 
 ![alt text](https://uatereig.sirv.com/Outward%20Bound/outward_bound-6240132.jpg "Sunrise on sea scheme")
 
-![alt text](https://uatereig.sirv.com/Outward%20Bound/outward_bound-6240130.jpg "Sea Scheme 1")
+![alt text](https://uatereig.sirv.com/Outward%20Bound/outward_bound-6230123.jpg "Sunset on sea scheme")
 
-![alt text](https://uatereig.sirv.com/Outward%20Bound/outward_bound-6240144.jpg "Sea Scheme 2")
+![alt text](https://uatereig.sirv.com/Outward%20Bound/outward_bound-6240131.jpg "Sea scheme 1")
+
+![alt text](https://uatereig.sirv.com/Outward%20Bound/outward_bound-6240130.jpg "Sea Scheme 2")
+
+![alt text](https://uatereig.sirv.com/Outward%20Bound/outward_bound-6240144.jpg "Sea Scheme 3")
 
 ![alt text](https://uatereig.sirv.com/Outward%20Bound/outward_bound-6240145.jpg "The end of Sea Scheme")
