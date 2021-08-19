@@ -5,7 +5,7 @@ published: true
 
 I went on a 3 week Outward Bound course in the Marlborough Sounds and took some pictures...
 
-![alt text](https://ucarecdn.com/5137e2ba-4910-41d7-a117-a6ba7920ac3d/-/preview/-/quality/smart/ "The wharf")
+![alt text](https://uatereig.sirv.com/Outward%20Bound%202021/OB-6100059.jpg "The wharf")
 
 ![alt text](https://ucarecdn.com/6db94c16-de2b-4de1-b286-b6d767d1c65e/-/preview/-/quality/smart/ "The truck at start of the Big Walk")
 
