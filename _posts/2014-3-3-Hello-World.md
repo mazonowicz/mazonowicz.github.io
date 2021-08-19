@@ -4,8 +4,20 @@ title: First Post
 published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+![alt text](https://uatereig.sirv.com/misty%20morning%20auckland/misty_morning_auckland-7250499.jpg)
+
+![alt text](https://uatereig.sirv.com/misty%20morning%20auckland/misty_morning_auckland-7250500.jpg)
+
+![alt text](https://uatereig.sirv.com/misty%20morning%20auckland/misty_morning_auckland-7250501.jpg)
+
+![alt text](https://uatereig.sirv.com/misty%20morning%20auckland/misty_morning_auckland-7250506.jpg)
+
+![alt text](https://uatereig.sirv.com/misty%20morning%20auckland/misty_morning_auckland-7250508.jpg)
+
+![alt text](https://uatereig.sirv.com/misty%20morning%20auckland/misty_morning_auckland-7250515.jpg)
+
+![alt text](https://uatereig.sirv.com/misty%20morning%20auckland/misty_morning_auckland-7250523.jpg)
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
