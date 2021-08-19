@@ -3,6 +3,7 @@ layout: post
 title: First Post
 published: true
 ---
+## June 2015 - Photos
 
 ![alt text](https://uatereig.sirv.com/misty%20morning%20auckland/misty_morning_auckland-7250499.jpg)
 
@@ -17,7 +18,3 @@ published: true
 ![alt text](https://uatereig.sirv.com/misty%20morning%20auckland/misty_morning_auckland-7250515.jpg)
 
 ![alt text](https://uatereig.sirv.com/misty%20morning%20auckland/misty_morning_auckland-7250523.jpg)
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-
