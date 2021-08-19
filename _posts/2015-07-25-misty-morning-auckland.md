@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Post
+title: Misty Morning Auckland
 published: true
 ---
 ## June 2015 - Photos
