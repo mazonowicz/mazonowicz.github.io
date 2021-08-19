@@ -5,13 +5,13 @@ published: true
 
 I went on a 3 week Outward Bound course in the Marlborough Sounds and took some pictures...
 
-![alt text](https://uatereig.sirv.com/Outward%20Bound%202021/OB-6100059.jpg "The wharf")
+![alt text](https://uatereig.sirv.com/Outward%20Bound%202/outward_bound-6100059.jpg "The wharf")
 
-![alt text](https://ucarecdn.com/6db94c16-de2b-4de1-b286-b6d767d1c65e/-/preview/-/quality/smart/ "The truck at start of the Big Walk")
+![alt text](https://uatereig.sirv.com/Outward%20Bound%202/outward_bound-6080010.jpg "The truck at start of the Big Walk")
 
-![alt text](https://ucarecdn.com/6fc82855-e592-43d7-9878-79879e700088/-/preview/-/quality/smart/ "Our first expedition")
+![alt text](https://uatereig.sirv.com/Outward%20Bound%202/outward_bound-6080012.jpg "Our first expedition")
 
-![alt text](https://ucarecdn.com/f3546867-c555-4a5a-9c45-b870996d2575/-/preview/-/quality/smart/ "Our first expedition 2")
+![alt text](https://uatereig.sirv.com/Outward%20Bound%202/outward_bound-6080017.jpg "Our first expedition 2")
 
 ![alt text](https://ucarecdn.com/67b910c6-bb1e-4ce7-b2b3-e46ca8def17d/-/preview/-/quality/smart/ "Alice on the first big walk")
 
