@@ -54,7 +54,3 @@ plugins:
 
 paginate: 6
 paginate_path: "/blog/page:num/"
-<<<<<<< HEAD
-  
-=======
->>>>>>> bb369dab8293a19af0f85a520c25bb87f7e5d993
