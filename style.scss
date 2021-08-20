@@ -1,289 +1,157 @@
 ---
 ---
 
-//
-// IMPORTS
-//
+// - - - - - - - - - - Foundations
 
-@import "reset";
-@import "variables";
-// Syntax highlighting @import is at the bottom of this file
+@import "_reset";
+@import "_mixins";
+@import "_plugins";
 
-/**************/
-/* BASE RULES */
-/**************/
 
-html {
-  font-size: 100%;
-}
 
-body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
-}
+// - - - - - - - - - - Variables
 
-.container {
-  margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
-  width: 100%;
-}
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
-  font-weight: bold;
+// Colors
 
-  line-height: 1.7;
-  margin: 1em 0 15px;
-  padding: 0;
+$background-color: {{ site.data.settings.color_settings.background_color }};
+$background-alt-color: {{ site.data.settings.color_settings.background_alt_color }};
+$border-color: {{ site.data.settings.color_settings.border_color }};
 
-  @include mobile {
-    line-height: 1.4;
-  }
-}
+$text-dark-color: {{ site.data.settings.color_settings.text_dark_color }};
+$text-medium-color: {{ site.data.settings.color_settings.text_medium_color }};
+$text-light-color: {{ site.data.settings.color_settings.text_light_color }};
 
-h1 {
-  font-size: 30px;
-  a {
-    color: inherit;
-  }
-}
+$accent-color: {{ site.data.settings.color_settings.accent_color }};
 
-h2 {
-  font-size: 24px;
-}
+$overlay-background-color: {{ site.data.settings.color_settings.overlay_background_color }};
+$overlay-text-color: {{ site.data.settings.color_settings.overlay_text_color }};
 
-h3 {
-  font-size: 20px;
-}
+$error-color: {{ site.data.settings.color_settings.error_color }};
 
-h4 {
-  font-size: 18px;
-  color: $gray;
-}
 
-p {
-  margin: 15px 0;
-}
+// Fonts
 
-a {
-  color: $blue;
-  text-decoration: none;
-	cursor: pointer;
-  &:hover, &:active {
-    color: $blue;
-  }
-}
+$body-font: {{ site.data.settings.font_settings.body_font }};
+$title-font: {{ site.data.settings.font_settings.title_font }};
 
-ul, ol {
-  margin: 15px 0;
-  padding-left: 30px;
-}
+$regular-weight: {{ site.data.settings.font_settings.regular_weight }};
+$bold-weight: {{ site.data.settings.font_settings.bold_weight }};
 
-ul {
-  list-style-type: disc;
-}
 
-ol {
-  list-style-type: decimal;
-}
+// Typography
 
-ol ul, ul ol, ul ul, ol ol {
-  margin: 0;
-}
+$sitetitle-small: {{ site.data.settings.font_settings.site_title.small_size }}px;
+$sitetitle-medium: {{ site.data.settings.font_settings.site_title.medium_size }}px;
+$sitetitle-large: {{ site.data.settings.font_settings.site_title.large_size }}px;
+$sitetitle-weight: {{ site.data.settings.font_settings.site_title.weight }};
+$sitetitle-spacing: {{ site.data.settings.font_settings.site_title.letter_spacing }}em;
 
-ul ul, ol ul {
-  list-style-type: circle;
-}
+$sitetagline-small: {{ site.data.settings.font_settings.site_tagline.small_size }}px;
+$sitetagline-medium: {{ site.data.settings.font_settings.site_tagline.medium_size }}px;
+$sitetagline-large: {{ site.data.settings.font_settings.site_tagline.large_size }}px;
+$sitetagline-weight: {{ site.data.settings.font_settings.site_tagline.weight }};
+$sitetagline-spacing: {{ site.data.settings.font_settings.site_tagline.letter_spacing }}em;
+$sitetagline-lineheight: {{ site.data.settings.font_settings.site_tagline.line_height }};
 
-em, i {
-  font-style: italic;
-}
+$menu-small: {{ site.data.settings.font_settings.menu.small_size }}px;
+$menu-medium: {{ site.data.settings.font_settings.menu.medium_size }}px;
+$menu-large: {{ site.data.settings.font_settings.menu.large_size }}px;
+$menu-weight: {{ site.data.settings.font_settings.menu.weight }};
+$menu-spacing: {{ site.data.settings.font_settings.menu.letter_spacing }}em;
 
-strong, b {
-  font-weight: bold;
-}
+$h1-small: {{ site.data.settings.font_settings.h1.small_size }}px;
+$h1-medium: {{ site.data.settings.font_settings.h1.medium_size }}px;
+$h1-large: {{ site.data.settings.font_settings.h1.large_size }}px;
+$h1-weight: {{ site.data.settings.font_settings.h1.weight }};
+$h1-spacing: {{ site.data.settings.font_settings.h1.letter_spacing }}em;
+$h1-lineheight: {{ site.data.settings.font_settings.h1.line_height }};
 
-img {
-  max-width: 100%;
-}
+$h2-small: {{ site.data.settings.font_settings.h2.small_size }}px;
+$h2-medium: {{ site.data.settings.font_settings.h2.medium_size }}px;
+$h2-large: {{ site.data.settings.font_settings.h2.large_size }}px;
+$h2-weight: {{ site.data.settings.font_settings.h2.weight }};
+$h2-spacing: {{ site.data.settings.font_settings.h2.letter_spacing }}em;
+$h2-lineheight: {{ site.data.settings.font_settings.h2.line_height }};
 
-// Fixes images in popup boxes from Google Translate
-.gmnoprint img {
-  max-width: none;
-}
+$h3-small: {{ site.data.settings.font_settings.h3.small_size }}px;
+$h3-medium: {{ site.data.settings.font_settings.h3.medium_size }}px;
+$h3-large: {{ site.data.settings.font_settings.h3.large_size }}px;
+$h3-weight: {{ site.data.settings.font_settings.h3.weight }};
+$h3-spacing: {{ site.data.settings.font_settings.h3.letter_spacing }}em;
+$h3-lineheight: {{ site.data.settings.font_settings.h3.line_height }};
 
-.date {
-  font-style: italic;
-  color: $gray;
-}
+$h4-small: {{ site.data.settings.font_settings.h4.small_size }}px;
+$h4-medium: {{ site.data.settings.font_settings.h4.medium_size }}px;
+$h4-large: {{ site.data.settings.font_settings.h4.large_size }}px;
+$h4-weight: {{ site.data.settings.font_settings.h4.weight }};
+$h4-spacing: {{ site.data.settings.font_settings.h4.letter_spacing }}em;
+$h4-lineheight: {{ site.data.settings.font_settings.h4.line_height }};
 
-// Specify the color of the selection
-::-moz-selection {
-  color: $black;
-  background: $lightGray;
-}
-::selection {
-  color: $black;
-  background: $lightGray;
-}
+$h5-small: {{ site.data.settings.font_settings.h5.small_size }}px;
+$h5-medium: {{ site.data.settings.font_settings.h5.medium_size }}px;
+$h5-large: {{ site.data.settings.font_settings.h5.large_size }}px;
+$h5-weight: {{ site.data.settings.font_settings.h5.weight }};
+$h5-spacing: {{ site.data.settings.font_settings.h5.letter_spacing }}em;
+$h5-lineheight: {{ site.data.settings.font_settings.h5.line_height }};
 
-// Nicolas Gallagher's micro clearfix hack
-// http://nicolasgallagher.com/micro-clearfix-hack/
-.clearfix:before,
-.clearfix:after {
-    content: " ";
-    display: table;
-}
+$h6-small: {{ site.data.settings.font_settings.h6.small_size }}px;
+$h6-medium: {{ site.data.settings.font_settings.h6.medium_size }}px;
+$h6-large: {{ site.data.settings.font_settings.h6.large_size }}px;
+$h6-weight: {{ site.data.settings.font_settings.h6.weight }};
+$h6-spacing: {{ site.data.settings.font_settings.h6.letter_spacing }}em;
+$h6-lineheight: {{ site.data.settings.font_settings.h6.line_height }};
 
-.clearfix:after {
-    clear: both;
-}
+$p-small: {{ site.data.settings.font_settings.p.small_size }}px;
+$p-medium: {{ site.data.settings.font_settings.p.medium_size }}px;
+$p-large: {{ site.data.settings.font_settings.p.large_size }}px;
+$p-weight: {{ site.data.settings.font_settings.p.weight }};
+$p-spacing: {{ site.data.settings.font_settings.p.letter_spacing }}em;
+$p-lineheight: {{ site.data.settings.font_settings.p.line_height }};
 
-/*********************/
-/* LAYOUT / SECTIONS */
-/*********************/
+$blockquote-small: {{ site.data.settings.font_settings.blockquote.small_size }}px;
+$blockquote-medium: {{ site.data.settings.font_settings.blockquote.medium_size }}px;
+$blockquote-large: {{ site.data.settings.font_settings.blockquote.large_size }}px;
+$blockquote-weight: {{ site.data.settings.font_settings.blockquote.weight }};
+$blockquote-spacing: {{ site.data.settings.font_settings.blockquote.letter_spacing }}em;
+$blockquote-lineheight: {{ site.data.settings.font_settings.blockquote.line_height }};
 
-//
-// .masthead
-//
+$button-weight: {{ site.data.settings.font_settings.buttons.weight }};
+$button-spacing: {{ site.data.settings.font_settings.buttons.letter_spacing }}em;
 
-.wrapper-masthead {
-  margin-bottom: 50px;
-}
 
-.masthead {
-  padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+// Header
+$overlay-opacity: {{ site.data.settings.header_settings.overlay_opacity }};
 
-  @include mobile {
-    text-align: center;
-  }
-}
 
-.site-avatar {
-  float: left;
-  width: 70px;
-  height: 70px;
-  margin-right: 15px;
+// Logo
+$logo-width: {{ site.data.settings.header_settings.logo_width }}px;
+$footer-logo-width: {{ site.data.settings.footer_settings.logo_width }}px;
 
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
 
-  img {
-    border-radius: 5px;
-  }
-}
+// Grid item
+$grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 
-.site-info {
-  float: left;
 
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
-}
 
-.site-name {
-  margin: 0;
-  color: $darkGray;
-  cursor: pointer;
-  font-family: $helveticaNeue;
-  font-weight: 300;
-  font-size: 28px;
-  letter-spacing: 1px;
-}
+// - - - - - - - - - - Global styles
 
-.site-description {
-  margin: -5px 0 0 0;
-  color: $gray;
-  font-size: 16px;
+@import "_basic";
 
-  @include mobile {
-    margin: 3px 0;
-  }
-}
+@import "_includes/_header";
+@import "_includes/_footer";
 
-nav {
-  float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
-  font-size: 18px;
+@import "_includes/_content";
+@import "_includes/_socials";
+@import "_includes/_gallery";
+@import "_includes/_syntax";
+@import "_includes/_contact-form";
 
-  @include mobile {
-    float: none;
-    margin-top: 9px;
-    display: block;
-    font-size: 16px;
-  }
 
-  a {
-    margin-left: 20px;
-    color: $darkGray;
-    text-align: right;
-    font-weight: 300;
-    letter-spacing: 1px;
 
-    @include mobile {
-      margin: 0 10px;
-      color: $blue;
-    }
-  }
-}
+// - - - - - - - - - - Section styles
 
-//
-// .main
-//
+@import "_includes/_portfolio";
+@import "_includes/_blog";
 
-.posts > .post {
-  padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
-}
 
-.posts > .post:last-child {
-  padding-bottom: 1em;
-  border-bottom: none;
-}
-
-.post {
-  blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
-    font-style: italic;
-  }
-
-  .comments {
-    margin-top: 10px;
-  }
-
-  .read-more {
-    text-transform: uppercase;
-    font-size: 15px;
-  }
-}
-
-.wrapper-footer {
-  margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
-}
-
-footer {
-  padding: 20px 0;
-  text-align: center;
-}
-
-// Settled on moving the import of syntax highlighting to the bottom of the CSS
-// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
-@import "highlights";
-@import "svg-icons";
