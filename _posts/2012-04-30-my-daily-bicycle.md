@@ -1,11 +1,11 @@
-# H1 My Daily Bicycle
+# My Daily Bicycle
 Mon, 30 Apr 2012
 		
 I read somewhere that in the Finnish language there is a specific word (*Poronkusema*) for the distance equal to how far a reindeer can travel without a "comfort break". I wish there was a similarly useful word in English to describe the situation where you want something, but when you go looking for it you can only find a million varieties of that thing - *that you don't like at all*. This happens to me all the time. Writers in a gentler age would have called me *particular*. Writers of this age would call me *a* *wanker*. Unless they were American - in America a *wanker* is a type of *fannypack*. Interestingly enough, I knew someone who was travelling in the US some years ago and they met a guy who's name was Randy Wanker. *Really*.
 
 So anyway, a couple of years ago I decided I was going to cycle around the place instead of driving, and went looking for a suitable bike. I couldn't find one and decided to build my own. This is what I made.
 
-[title](http://aucklandbikeslob.com/wp-content/uploads/2012/04/r0011914.jpg)
+[Bike](http://aucklandbikeslob.com/wp-content/uploads/2012/04/r0011914.jpg)
 
 The frame is a [Cotic Roadrat](http://www.cotic.co.uk/product/roadrat), and the rest of the bike is put together from parts made by  [Velocity](http://www.velocitywheels.com/), [Sturmey Archer](http://www.sturmey-archer.com/), [Brooks](http://www.brooksengland.com/), [Sapim](http://www.sapim.be/), [Tange-Seiki](http://www.tangeseiki.com/), [Michelin](http://www.michelinbicycletire.com/michelinbicycle/), [Jagwire](http://www.jagwireusa.com/) and [Shimano](http://www.shimano.com/)
 
