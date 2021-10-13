@@ -1,5 +1,4 @@
-##H1 My Daily Bicycle
-
+# H1 My Daily Bicycle
 Mon, 30 Apr 2012
 		
 I read somewhere that in the Finnish language there is a specific word (*Poronkusema*) for the distance equal to how far a reindeer can travel without a "comfort break". I wish there was a similarly useful word in English to describe the situation where you want something, but when you go looking for it you can only find a million varieties of that thing - *that you don't like at all*. This happens to me all the time. Writers in a gentler age would have called me *particular*. Writers of this age would call me *a* *wanker*. Unless they were American - in America a *wanker* is a type of *fannypack*. Interestingly enough, I knew someone who was travelling in the US some years ago and they met a guy who's name was Randy Wanker. *Really*.
