@@ -5,9 +5,9 @@ I read somewhere that in the Finnish language there is a specific word (*Poronku
 
 So anyway, a couple of years ago I decided I was going to cycle around the place instead of driving, and went looking for a suitable bike. I couldn't find one and decided to build my own. This is what I made.
 
-[title](http://aucklandbikeslob.com/wp-content/uploads/2012/04/r0011914.jpg"><img class="alignnone size-full wp-image-9" title="Roadrat in The Domain" src="http://aucklandbikeslob.com/wp-content/uploads/2012/04/r0011914.jpg" alt="" width="529" height="415" />)
+[title](http://aucklandbikeslob.com/wp-content/uploads/2012/04/r0011914.jpg)
 
-The frame is a [title](http://www.cotic.co.uk/product/roadrat">Cotic Roadrat), and the rest of the bike is put together from parts made by  [Velocity](http://www.velocitywheels.com/">Velocity), [Sturmey Archer](http://www.sturmey-archer.com/">Sturmey Archer), [Brooks](http://www.brooksengland.com/">Brooks), [title](http://www.sapim.be/">Sapim), [Tange-Seiki](http://www.tangeseiki.com/">Tange-Seiki), [Michelin](http://www.michelinbicycletire.com/michelinbicycle/">Michelin), [Jagwire](http://www.jagwireusa.com/">Jagwire) and [Shimano](http://www.shimano.com/">Shimano)
+The frame is a [Cotic Roadrat](http://www.cotic.co.uk/product/roadrat), and the rest of the bike is put together from parts made by  [Velocity](http://www.velocitywheels.com/">Velocity), [Sturmey Archer](http://www.sturmey-archer.com/), [Brooks](http://www.brooksengland.com/">Brooks), [title](http://www.sapim.be/">Sapim), [Tange-Seiki](http://www.tangeseiki.com/">Tange-Seiki), [Michelin](http://www.michelinbicycletire.com/michelinbicycle/">Michelin), [Jagwire](http://www.jagwireusa.com/">Jagwire) and [Shimano](http://www.shimano.com/">Shimano)
 
 It's not perfect - there are no mudguards and the rear basket is a bit crap. But it's practical enough to be my primary means of transport - I ride it to work and everywhere else around the city (including to [title](http://www.velociteers.com/">synchronized cycling) practices and performances).
 
@@ -27,4 +27,4 @@ Front & rear hub brakes...
 
 [title](http://aucklandbikeslob.com/wp-content/uploads/2012/04/r0012131.jpg)
 
-It also has a rear light attached to the carrier and some fat tyres. These days there are some more options when it comes to buying city bikes, you've got [title](http://www.velo-ideale.com/">Velo-Ideale) and [title](http://rode.co.nz/">Rode) for instance. But I think a good point to remember is, if you can't find what you want, you can always go & make it yourself. And if the project turns in to a *Vortex of Damnation*, well then at least you'll know not to do it again.]]>
+It also has a rear light attached to the carrier and some fat tyres. These days there are some more options when it comes to buying city bikes, you've got [Velo-Ideale](http://www.velo-ideale.com/) and [Rode](http://rode.co.nz/) for instance. But I think a good point to remember is, if you can't find what you want, you can always go & make it yourself. And if the project turns in to a *Vortex of Damnation*, well then at least you'll know not to do it again.
