@@ -7,7 +7,7 @@ So anyway, a couple of years ago I decided I was going to cycle around the place
 
 [title](http://aucklandbikeslob.com/wp-content/uploads/2012/04/r0011914.jpg)
 
-The frame is a [Cotic Roadrat](http://www.cotic.co.uk/product/roadrat), and the rest of the bike is put together from parts made by  [Velocity](http://www.velocitywheels.com/">Velocity), [Sturmey Archer](http://www.sturmey-archer.com/), [Brooks](http://www.brooksengland.com/">Brooks), [title](http://www.sapim.be/">Sapim), [Tange-Seiki](http://www.tangeseiki.com/">Tange-Seiki), [Michelin](http://www.michelinbicycletire.com/michelinbicycle/">Michelin), [Jagwire](http://www.jagwireusa.com/">Jagwire) and [Shimano](http://www.shimano.com/">Shimano)
+The frame is a [Cotic Roadrat](http://www.cotic.co.uk/product/roadrat), and the rest of the bike is put together from parts made by  [Velocity](http://www.velocitywheels.com/), [Sturmey Archer](http://www.sturmey-archer.com/), [Brooks](http://www.brooksengland.com/), [Sapim](http://www.sapim.be/), [Tange-Seiki](http://www.tangeseiki.com/), [Michelin](http://www.michelinbicycletire.com/michelinbicycle/), [Jagwire](http://www.jagwireusa.com/) and [Shimano](http://www.shimano.com/)
 
 It's not perfect - there are no mudguards and the rear basket is a bit crap. But it's practical enough to be my primary means of transport - I ride it to work and everywhere else around the city (including to [title](http://www.velociteers.com/">synchronized cycling) practices and performances).
 
