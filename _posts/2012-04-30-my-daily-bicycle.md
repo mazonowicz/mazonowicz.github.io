@@ -27,4 +27,4 @@ Front & rear hub brakes...
 
 ![Brakes](http://aucklandbikeslob.com/wp-content/uploads/2012/04/r0012131.jpg)
 
-It also has a rear light attached to the carrier and some fat tyres. These days there are some more options when it comes to buying city bikes, you've got [Velo-Ideale](http://www.velo-ideale.com/) and [Rode](http://rode.co.nz/) for instance. But I think a good point to remember is, if you can't find what you want, you can always go & make it yourself. And if the project turns in to a *Vortex of Damnation*, well then at least you'll know not to do it again.
+It also has a rear light attached to the carrier and some fat tyres. These days there are some more options when it comes to buying city bikes, you've got [Velo-Ideale](http://www.velo-ideale.com/) and [Rode](http://rode.co.nz/) for instance. But I think a good point to remember is, if you can't find what you want, you can always go & make it yourself. And if the project turns in to a *Vortex of Damnation*, well then at least you'll know not to do it again..
