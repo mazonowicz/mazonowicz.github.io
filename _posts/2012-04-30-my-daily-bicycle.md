@@ -5,7 +5,7 @@ I read somewhere that in the Finnish language there is a specific word (*Poronku
 
 So anyway, a couple of years ago I decided I was going to cycle around the place instead of driving, and went looking for a suitable bike. I couldn't find one and decided to build my own. This is what I made.
 
-[Bike](https://aucklandbikeslob.com/wp-content/uploads/2012/04/r0011914.jpg)
+![Bike](https://aucklandbikeslob.com/wp-content/uploads/2012/04/r0011914.jpg)
 
 The frame is a [Cotic Roadrat](https://www.cotic.co.uk/product/roadrat), and the rest of the bike is put together from parts made by  [Velocity](https://www.velocitywheels.com/), [Sturmey Archer](http://www.sturmey-archer.com/), [Brooks](https://www.brooksengland.com/), [Sapim](https://www.sapim.be/), [Tange-Seiki](https://www.tangeseiki.com/), [Michelin](https://www.michelinbicycletire.com/michelinbicycle/), [Jagwire](https://www.jagwireusa.com/) and [Shimano](https://www.shimano.com/)
 
