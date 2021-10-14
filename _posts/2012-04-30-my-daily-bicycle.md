@@ -5,26 +5,26 @@ I read somewhere that in the Finnish language there is a specific word (*Poronku
 
 So anyway, a couple of years ago I decided I was going to cycle around the place instead of driving, and went looking for a suitable bike. I couldn't find one and decided to build my own. This is what I made.
 
-[Bike](aucklandbikeslob.com/wp-content/uploads/2012/04/r0011914.jpg)
+[Bike](https://aucklandbikeslob.com/wp-content/uploads/2012/04/r0011914.jpg)
 
-The frame is a [Cotic Roadrat](www.cotic.co.uk/product/roadrat), and the rest of the bike is put together from parts made by  [Velocity](www.velocitywheels.com/), [Sturmey Archer](http://www.sturmey-archer.com/), [Brooks](www.brooksengland.com/), [Sapim](https://www.sapim.be/), [Tange-Seiki](www.tangeseiki.com/), [Michelin](www.michelinbicycletire.com/michelinbicycle/), [Jagwire](www.jagwireusa.com/) and [Shimano](www.shimano.com/)
+The frame is a [Cotic Roadrat](https://www.cotic.co.uk/product/roadrat), and the rest of the bike is put together from parts made by  [Velocity](https://www.velocitywheels.com/), [Sturmey Archer](http://www.sturmey-archer.com/), [Brooks](https://www.brooksengland.com/), [Sapim](https://www.sapim.be/), [Tange-Seiki](https://www.tangeseiki.com/), [Michelin](https://www.michelinbicycletire.com/michelinbicycle/), [Jagwire](https://www.jagwireusa.com/) and [Shimano](https://www.shimano.com/)
 
-It's not perfect - there are no mudguards and the rear basket is a bit crap. But it's practical enough to be my primary means of transport - I ride it to work and everywhere else around the city (including to [synchronized cycling](www.velociteers.com/) practices and performances).
+It's not perfect - there are no mudguards and the rear basket is a bit crap. But it's practical enough to be my primary means of transport - I ride it to work and everywhere else around the city (including to [synchronized cycling](https://www.velociteers.com/) practices and performances).
 
 It has a front light powered by a large rechargeable battery...
 
-![Front Light](aucklandbikeslob.com/wp-content/uploads/2012/04/r0012133.jpg)
+![Front Light](https://aucklandbikeslob.com/wp-content/uploads/2012/04/r0012133.jpg)
 
 3-speed gears...
 
-![Gears](aucklandbikeslob.com/wp-content/uploads/2012/05/r0012135.jpg)
+![Gears](https://aucklandbikeslob.com/wp-content/uploads/2012/05/r0012135.jpg)
 
 Comfortable handlebars...
 
-![Handlebars](aucklandbikeslob.com/wp-content/uploads/2012/04/r0012136.jpg)
+![Handlebars](https://aucklandbikeslob.com/wp-content/uploads/2012/04/r0012136.jpg)
 
 Front & rear hub brakes...
 
-![Brakes](aucklandbikeslob.com/wp-content/uploads/2012/04/r0012131.jpg)
+![Brakes](https://aucklandbikeslob.com/wp-content/uploads/2012/04/r0012131.jpg)
 
 It also has a rear light attached to the carrier and some fat tyres. These days there are some more options when it comes to buying city bikes, you've got [Velo-Ideale](http://www.velo-ideale.com/) and [Rode](http://rode.co.nz/) for instance. But I think a good point to remember is, if you can't find what you want, you can always go & make it yourself. And if the project turns in to a *Vortex of Damnation*, well then at least you'll know not to do it again.
