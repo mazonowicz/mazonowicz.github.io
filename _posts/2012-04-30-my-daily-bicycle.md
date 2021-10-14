@@ -7,7 +7,7 @@ So anyway, a couple of years ago I decided I was going to cycle around the place
 
 [Bike](aucklandbikeslob.com/wp-content/uploads/2012/04/r0011914.jpg)
 
-The frame is a [Cotic Roadrat](www.cotic.co.uk/product/roadrat), and the rest of the bike is put together from parts made by  [Velocity](www.velocitywheels.com/), [Sturmey Archer](http://www.sturmey-archer.com/), [Brooks](www.brooksengland.com/), [Sapim](www.sapim.be/), [Tange-Seiki](www.tangeseiki.com/), [Michelin](www.michelinbicycletire.com/michelinbicycle/), [Jagwire](www.jagwireusa.com/) and [Shimano](www.shimano.com/)
+The frame is a [Cotic Roadrat](www.cotic.co.uk/product/roadrat), and the rest of the bike is put together from parts made by  [Velocity](www.velocitywheels.com/), [Sturmey Archer](http://www.sturmey-archer.com/), [Brooks](www.brooksengland.com/), [Sapim](https://www.sapim.be/), [Tange-Seiki](www.tangeseiki.com/), [Michelin](www.michelinbicycletire.com/michelinbicycle/), [Jagwire](www.jagwireusa.com/) and [Shimano](www.shimano.com/)
 
 It's not perfect - there are no mudguards and the rear basket is a bit crap. But it's practical enough to be my primary means of transport - I ride it to work and everywhere else around the city (including to [synchronized cycling](www.velociteers.com/) practices and performances).
 
