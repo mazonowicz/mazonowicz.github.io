@@ -12,7 +12,7 @@ It's not an especially pretty bike, although it probably was back in the 1970s w
 
 ![image](https://farm9.staticflickr.com/8425/7499826534_fb486b2fc0.jpg)
 
-As a general purpose bike it has some shortcomings - the chain has a tendency to fall off if I change too quickly in to a higher gear, and the actual levers are placed, not very conveniently, at arms-length. And then there's all that.. ahem.. rust.
+As a general purpose bike it has some shortcomings - the chain has a tendency to fall off if I change too quickly in to a higher gear, and the actual levers are placed, not very conveniently, at arms-length. And then there's all that.. ahem... rust.
 
 ![image](https://farm9.staticflickr.com/8007/7499816506_9cc674a87d.jpg)
 
