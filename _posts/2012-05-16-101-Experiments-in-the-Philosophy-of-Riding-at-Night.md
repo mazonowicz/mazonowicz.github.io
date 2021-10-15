@@ -1,3 +1,9 @@
+---
+title: '101 Experiments in the Philosophy of Riding at Night'
+date: 2012-05-16 00:00:00
+featured_image: 
+excerpt: Riding at night.
+---
 I have a book (actually I have more than one book - I may even have **too many books**) called '[101 Experiments in the Philosophy of Everyday Life](http://www.bookdepository.co.uk/101-Experiments-Philosophy-Everyday-Life-Roger-Pol-Droit/9780571212064). Each chapter of this book is (as the title would suggest) an experiment you can perform that may change the way you experience the world. Chapter 88 is "Prowl at Night". It suggests that you wander around your city at night. To look for things that you don't see during daylight, and to see things you're familiar with, in a different way. I think this is an excellent idea, but I think that riding is better.
 
 ![image](http://aucklandbikeslob.com/wp-content/uploads/2012/05/r0012166.jpg)
