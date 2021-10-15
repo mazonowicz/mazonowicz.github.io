@@ -2,7 +2,7 @@
 title: 'Testing the Monstertruck MB4'
 date: 2012-05-27 00:00:00
 featured_image: 
-excerpt: The bicycle I built.
+excerpt: I tried, I failed.
 ---
 ![image](https://aucklandbikeslob.com/wp-content/uploads/2012/05/r0012114.jpg)
 
