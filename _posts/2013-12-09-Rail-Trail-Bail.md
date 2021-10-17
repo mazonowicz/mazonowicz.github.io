@@ -12,7 +12,7 @@ Well, I'll tell you. My plan had originally been to catch the ferry from downtow
 
 ![image](https://farm8.staticflickr.com/7352/11241330756_6ba056fef2_c.jpg)
 
-I had been informed that the road from Coromandel to Thames was very pleasant to cycle along, but as I drove along there through the numerous blind corners and past the not infrequent slips I realised that that was *bollocks*. Riding along that road today would be both miserable and scary. So I came up with a backup plan - park in Thames and ride to Te Aroha along the Rail Trail. Maybe ride back the same day.
+I had been informed that the road from Coromandel to Thames was very pleasant to cycle on, but as I drove along there through the numerous blind corners and past the not infrequent slips I realised that that was *bollocks*. Riding along that road today would be both miserable and scary. So I came up with a backup plan - park in Thames and ride to Te Aroha along the Rail Trail. Maybe ride back the same day.
 
 ![image](https://farm4.staticflickr.com/3720/11241370306_7ff89fb003_c.jpg)
 
