@@ -19,7 +19,7 @@ Lying around in the garage, I had a set of Miche dual-pivot brakes. So installed
 
 ![image](https://farm4.staticflickr.com/3735/9493872428_d787ae45f3_c.jpg)
 
-I was very fortunate with the all important contact points - the saddle is an old Brooks I salvaged from a 1970's Peugeot, and the handlebars are Grand Bois Maes Parallel that I found on sale at[Planet-X](https://www.planetx.co.uk/) in the UK. Both of these items are very comfortable. At first I put on Shimano Deore deraileurs, but I have since replaced them with Shimano 105. The tyres are the classic Panaracer Paselsa TGs.
+I was very fortunate with the all important contact points - the saddle is an old Brooks I salvaged from a 1970's Peugeot, and the handlebars are Grand Bois Maes Parallel that I found on sale at [Planet-X](https://www.planetx.co.uk/) in the UK. Both of these items are very comfortable. At first I put on Shimano Deore deraileurs, but I have since replaced them with Shimano 105. The tyres are the classic Panaracer Paselsa TGs.
 
 ![image](https://farm8.staticflickr.com/7440/9493849352_96afa35abb_c.jpg)
 
