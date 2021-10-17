@@ -4,7 +4,6 @@ date: 2013-12-09 00:00:00
 featured_image: 
 excerpt: Riding the Hauraki Rail Trail.
 ---
-
 I was sitting in my car on a rainy Thursday night, in the carpark of the Thames Pak'n'Save, stuffing my face with a McDonalds Fillet'o'Fish while listening to the final melancholy tracks on Echo & the Bunnymens's 'Live in Liverpool' album. "Nothing ever lasts forever" Ian McCulloch was singing - unlike these fries I thought, which *did* seem to be lasting forever. Why are there so many of them? When I was was a kid there were 8 fries in a small bag and 15 in a large, but this 'medium' had thousands in it. Would I never be free of them? The melancholy atmosphere deepened when the CD finished and the carpark PA became audible. It was playing 'Snoopy's Fucking Christmas'. I slumped down lower in the seat - where had I gone wrong? What twisted train of events had brought me here?
 
 ![image](https://farm3.staticflickr.com/2818/11241387023_0eaf18065c_c.jpg)
