@@ -2,7 +2,7 @@
 title: 'Riding The Heaphy'
 date: 2019-05-12 00:00:00
 featured_image: 
-excerpt: Riding at night.
+excerpt: I cycled The Heaphy Track - did I take the wrong bike?
 ---
 
 # H2 Day 1
