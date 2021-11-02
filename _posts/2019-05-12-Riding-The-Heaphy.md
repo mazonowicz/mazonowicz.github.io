@@ -79,11 +79,7 @@ We picked our way through the driftwood and tried to decipher the animal prints 
 
 The track that day was amazing - smoothish and following the coastline, it wound through tropical-feeling nikau groves and beautiful deserted beaches. Quite nice really. By now The Baker Party had settled in to a bicycle train, with Bec, Machette & Jason in the front carriage, me in the middle carriage, and Coo & Sugar in the caboose.
 
-<!-- wp:core-embed/flickr {"url":"https://flic.kr/p/P3hSF6","type":"rich","providerNameSlug":"","className":""} -->
-<figure class="wp-block-embed-flickr wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
-https://flic.kr/p/P3hSF6
-</div></figure>
-<!-- /wp:core-embed/flickr -->
+![image](https://flic.kr/p/P3hSF6)
 
 Just before we left, we were packing our bikes and the local Shirley Weka snatched Machette’s lunch and absconded with it. Coo immediately gave chase, diving heroically in to the bush and flushing Ms Weka out. Bec & Machette pursued her down the path while the rest of us stood around assessing their chances of success. I was pessimistic given that this was Shirley’s home turf, but I was proved wrong when they returned 5 minutes later, triumphantly holding a sandwich bag with it’s contents intact (apart from a large beak-mark through the middle of one). 
 
