@@ -5,7 +5,7 @@ featured_image:
 excerpt: I cycled The Heaphy Track - did I take the wrong bike?
 ---
 
-# H2 Day 1
+#H2 Day 1
 
 We met Machete & Bec at The Quiet Revolution in Takaka, where Coo, Sugar and Jason were picking up their rental bikes. Paul, the very helpful proprietor, told us that he wouldn’t be renting bikes out for much longer. He’d recently had a guy hire one to do The Heaphy, and then call a few days later from Karamea complaining that the bike had broken, so he’d left it on the trail, walked out and his holiday was ruined. It later transpired that the guy had in fact smacked the bike in to a tree & broken the frame in half. Retrieving the remains of the bike was very expensive and had put Paul off the whole rental thing.
 
@@ -34,7 +34,7 @@ Our group, now generally know as “The Baker Party” was of mixed experience a
 The hut was fairly new, fairly crowded, and very warm. Most of the guests were in bed by 9pm. We stayed up long enough to eat & play a reluctant game of Bananagrams before hitting our sleeping bags. On the way to hers, Coo woke up half the hut by dropping her hip flask. And then woke up the other half by dropping her metal water bottle as she bent down to pick up her hip flask.
 
 
-# H2 Day 2
+#H2 Day 2
 
 I woke up early, soon after Coo, and we sat at the corner table while the sun wafted through clouds that surrounded us. By the time we had eaten our breakfasts, packed our bikes, gotten our shit together, and taken a group photo, the weather hadn’t really changed much at all. 
 
@@ -63,7 +63,7 @@ There was a little hiccough on the way, when we came to a river with only a supe
 The hut was getting full by the time we arrived, with the same bikers from last night, but different walkers. It was an amazing spot, sitting next to an estuary, with big waves rolling in to a huge beach, depositing masses of driftwood and rolling up the river. For dinner, Coo and I ate more of her Dad’s Italian organic, artisanal, vegan camping food (whose instructions include a suggested wine match). Which was nice, but we were still hungry. So we also cooked an instant pasta & sauce  which was significantly enhanced by some of Jason’s butter. I had initially thought that butter was an excessive thing to bring, but I have definitely come around. And it almost makes up for his bib-shorts. There was another kind of butter that was popular on the ride - Butt Butter. I took a jar with me, and everyone one had a scoop in the morning before we started riding. One rule - no double-dipping.Then Machette cooked some kind of camping chocolate pudding, and more Bananagrams were played. In one round, Coo played the word “icy”, which Bec pointed out should be spelt “icey”. I disagreed, but there was no Internet available to settle the argument. So other hut residents were consulted. One guy just agreed with whichever spelling was suggested to him & the other was on my side. The sum of $1 was wagered and we resolved to consult Uncle Google when it became available. The Baker Party were the last to bed again.
 
 
-# H2 Day 3
+#H2 Day 3
 
 Our final day on the track started pretty early again for Coo and I. The only other people up with us were two members of a family group walking the track - a boy of about nine and a woman in her sixties maybe. We assumed she was his grandmother, and they seemed to have a really nice relationship - they looked out for each other. Fuck knows what nationality she was though. Coo thought she was Scottish, Sugar reckoned Irish, and I was pretty sure she was German.
 
