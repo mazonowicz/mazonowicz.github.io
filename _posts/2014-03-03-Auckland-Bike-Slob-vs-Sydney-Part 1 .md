@@ -6,6 +6,7 @@ excerpt: Spending a few days in Sydney
 ---
 
 #H2 Part 1 
+
 [Temazepam](http://en.wikipedia.org/wiki/temazepam) is a drug prescribed for insomnia and anxiety disorders. I took some a few years ago when my fear of flying was at it's most abject and I needed to get to Christchurch. It worked perfectly. I assumed that there would be side-effects - drowsiness or incontinence or something. But there was none of that, it was just as if the part of my brain that worried about the plane crashing had been surgically removed. These days I've managed to get my terror under control, but I can still do with a little help. So wandering through Sydney airport on my way back to Auckland the other day I was very pleased to be offered a shot of 'spiced' Wild Turkey. While not as efficient as Temazepam, it did help take the edge (of fear) off.
  
 [image](https://farm3.staticflickr.com/2847/12381198003_6386307cf7_c.jpg)
