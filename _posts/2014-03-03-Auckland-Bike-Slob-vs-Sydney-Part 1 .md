@@ -1,8 +1,8 @@
 ---
-title: 'Riding The Heaphy'
-date: 2019-05-12 00:00:00
+title: 'Auckland Bike Slob vs Sydney'
+date: 2014-03-03 00:00:00
 featured_image: 
-excerpt: I cycled The Heaphy Track - did I take the wrong bike?
+excerpt: Spending a few days in Sydney
 ---
 
 # H1 Part 1 
