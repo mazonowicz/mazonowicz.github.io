@@ -5,7 +5,7 @@ featured_image:
 excerpt: Going for a nice ride just outside Sydney
 ---
 
-# Part 2 
+## Part 2 
 
 I had an afternoon free during my recent trip to Sydney, So I decided to get out of the city and take a ride in the country. I had heard that the Royal National Park was nice, so I asked at the Clarence St Cyclery  if they thought that was a good idea. The very helpful staff assured me that it was indeed a good idea, and gave me comprehensive directions. Also, somewhat endearingly, I overheard them refer to me as 'the touring gentleman'. So I blundered around the central city looking for a railway station, eventually finding one hidden underground. Sydney trains are pretty flash, electric double-decker things. They don't cater very well to bikes though. So I wedged myself and the Roadrat in the doorway, trying not to block it too much. After a hearty lunch of coffee and banana-bread in Sutherland I set off. The first few k's were on a fairly busy (but generously shouldered) highway but soon I turned off in to the Royal National Park.
 
