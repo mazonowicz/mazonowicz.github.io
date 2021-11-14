@@ -11,7 +11,7 @@ excerpt: Spending a few days in Sydney
  
 ![image](https://farm3.staticflickr.com/2847/12381198003_6386307cf7_c.jpg)
 
-I was at least a couple of hours early for my flight, having left The Glenferrie Lodge (on Sydney's glamorous North Shore) at about 11am with the vague plan of riding across the Sydney Harbour Bridge, along a nice cycleway to Darling Harbour, on to [Cheeky Transport](http://www.cheekytransport.com.au/) in Newtown and then out to the airport.
+I was at least a couple of hours early for my flight, having left The Glenferrie Lodge (on Sydney's glamorous North Shore) at about 11am with the vague plan of riding across the Sydney Harbour Bridge, along a nice cycleway to Darling Harbour, on to [Cheeky Transport](https://www.cheekytransport.com.au/) in Newtown and then out to the airport.
 
 ![image](https://v4s.yimg.com/so/7301/12381069835_7a66c15ca9_c.jpg)
 
