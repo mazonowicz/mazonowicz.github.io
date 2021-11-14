@@ -5,7 +5,7 @@ featured_image:
 excerpt: I cycled The Heaphy Track - did I take the wrong bike?
 ---
 
-#H2 Day 1
+## Day 1
 
 We met Machete & Bec at The Quiet Revolution in Takaka, where Coo, Sugar and Jason were picking up their rental bikes. Paul, the very helpful proprietor, told us that he wouldn’t be renting bikes out for much longer. He’d recently had a guy hire one to do The Heaphy, and then call a few days later from Karamea complaining that the bike had broken, so he’d left it on the trail, walked out and his holiday was ruined. It later transpired that the guy had in fact smacked the bike in to a tree & broken the frame in half. Retrieving the remains of the bike was very expensive and had put Paul off the whole rental thing.
 
