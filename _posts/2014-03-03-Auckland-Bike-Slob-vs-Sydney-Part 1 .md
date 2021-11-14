@@ -1,8 +1,8 @@
 ---
-title: 'Auckland Bike Slob vs Sydney'
+title: 'Auckland Bike Slob vs Sydney - Part 1'
 date: 2014-03-03 00:00:00
 featured_image: 
-excerpt: Spending a few days in Sydney
+excerpt: Spending a few days cycling around in Sydney
 ---
 
 ## Part 1 
