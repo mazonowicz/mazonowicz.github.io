@@ -9,7 +9,7 @@ excerpt: Spending a few days in Sydney
 
 [Temazepam](http://en.wikipedia.org/wiki/temazepam) is a drug prescribed for insomnia and anxiety disorders. I took some a few years ago when my fear of flying was at it's most abject and I needed to get to Christchurch. It worked perfectly. I assumed that there would be side-effects - drowsiness or incontinence or something. But there was none of that, it was just as if the part of my brain that worried about the plane crashing had been surgically removed. These days I've managed to get my terror under control, but I can still do with a little help. So wandering through Sydney airport on my way back to Auckland the other day I was very pleased to be offered a shot of 'spiced' Wild Turkey. While not as efficient as Temazepam, it did help take the edge (of fear) off.
  
-[image](https://farm3.staticflickr.com/2847/12381198003_6386307cf7_c.jpg)
+![image](https://farm3.staticflickr.com/2847/12381198003_6386307cf7_c.jpg)
 
 I was at least a couple of hours early for my flight, having left The Glenferrie Lodge (on Sydney's glamorous North Shore) at about 11am with the vague plan of riding across the Sydney Harbour Bridge, along a nice cycleway to Darling Harbour, on to [Cheeky Transport](http://www.cheekytransport.com.au/) in Newtown and then out to the airport.
 
