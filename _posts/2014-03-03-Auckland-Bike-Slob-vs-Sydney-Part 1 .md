@@ -27,7 +27,7 @@ The bag is pretty minimalist - no wheels, not much padding, only just enough spa
 
 ![image](https://farm3.staticflickr.com/2847/12381210164_b9d574c927_c.jpg)
 
-The Roadrat survived the flight ok, thanks I suspect to it's robust chromoly steel frame. The wheels are also tough - they're both 36 spokes on touring rims (the fat [Bruce Gordon](http://www.bgcycles.com/rock-n-road-tire.html) tyres probably help protect the wheels too). I used the remaining spaces in the bag to put things I didn't want to take on the plane with me. Obviously one of the upsides to a minimalist bag, is that you can fold it up and carry it with you - which is what I did.
+The Roadrat survived the flight ok, thanks I suspect to it's robust chromoly steel frame. The wheels are also tough - they're both 36 spokes on touring rims (the fat [Bruce Gordon](http://www.bgcycles.com/rock-n-road-tire.html)) tyres probably help protect the wheels too). I used the remaining spaces in the bag to put things I didn't want to take on the plane with me. Obviously one of the upsides to a minimalist bag, is that you can fold it up and carry it with you - which is what I did.
 
 ![image](https://ycpi-farm4.staticflickr.com/3782/12380942653_a50c6459c9_c.jpg)
 
