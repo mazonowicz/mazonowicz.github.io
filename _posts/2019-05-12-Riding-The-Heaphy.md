@@ -17,7 +17,7 @@ While the others were all riding fully suspensioned mountain bikes, with their b
 
 We rode to the airfield after (a nice but disorganised) breakfast at *The Wholemeal*, where a strange woman politely jumped the queue because she was “just buying some coffee”. On the way, there was a big red button by the side of the road, next to a sign that read “Cyclists Please Press”. So I pressed it. When we talked to a local later, he told us that the button hadn’t been connected to anything for about 3 years.
 
-![image](https://aucklandbikeslob.com/wp-content/uploads/2019/01/image.png)
+![image](https://res.cloudinary.com/dlxlsbn7d/image/upload/v1645145710/Auckland%20Bike%20Slob/blog%20photos/the-heaphy-2018-4_lkcakl.jpg)
 
 I’m not sure if I find the casual way that people treat flying in small planes, scary or reassuring. When Mit (our pilot) pushed the plane out of it's hangar (or garage) and folded down the wing-mounted bike racks he had made himself, he certainly gave the impression that we were about to do something that he did every day and would almost certainly not lead to us crashing and being engulfed in a horrific fireball. But as we would soon discover, an even more terrible fate awaited us, one that would make a plane crash seem fun. Yes, just after arriving at the airfield, Jason put on **his bib shorts**. 
 
