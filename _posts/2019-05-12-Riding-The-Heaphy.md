@@ -15,7 +15,7 @@ While the others were all riding fully suspensioned mountain bikes, with their b
 
 ![image](https://res.cloudinary.com/dlxlsbn7d/image/upload/v1645145707/Auckland%20Bike%20Slob/blog%20photos/the-heaphy-2018-2_p3oz7x.jpg)
 
-We rode to the airfield after (a nice but disorganised) breakfast at *The Wholemeal*, where a strange woman politely jumped the queue because she was “just buying some coffee”. On the way, there was a big red button by the side of the road, next to a sign that read “Cyclists Please Press”. So I pressed it. When we talked to a local later, he told us that the button hadn’t been connected to anything for about 3 years.
+We rode to the airfieldx after (a nice but disorganised) breakfast at *The Wholemeal*, where a strange woman politely jumped the queue because she was “just buying some coffee”. On the way, there was a big red button by the side of the road, next to a sign that read “Cyclists Please Press”. So I pressed it. When we talked to a local later, he told us that the button hadn’t been connected to anything for about 3 years.
 
 ![image](https://aucklandbikeslob.com/wp-content/uploads/2019/01/image.png)
 
