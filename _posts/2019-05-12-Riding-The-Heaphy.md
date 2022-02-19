@@ -1,11 +1,9 @@
 ---
 title: 'Riding The Heaphy'
 date: 2019-05-12 00:00:00
-featured_image: 
+featured_image: '![image](https://res.cloudinary.com/dlxlsbn7d/image/upload/v1645145728/Auckland%20Bike%20Slob/blog%20photos/the-heaphy-2018-20_ma3qej.jpg)'
 excerpt: I cycled The Heaphy Track - did I take the wrong bike?
 ---
-
-![image](https://res.cloudinary.com/dlxlsbn7d/image/upload/v1645145728/Auckland%20Bike%20Slob/blog%20photos/the-heaphy-2018-20_ma3qej.jpg)
 
 ### Day 1
 
