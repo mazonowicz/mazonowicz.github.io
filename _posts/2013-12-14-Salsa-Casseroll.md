@@ -7,7 +7,7 @@ excerpt: I built a nice roadish bike using a frame I stumbled across.
 
 ![image](https://farm3.staticflickr.com/2825/9491052363_d4016f701d_c.jpg)
 
-Last year I was pottering about on TradeMe, looking for nothing in particular, when I cam across a Salsa Casseroll frame. It was a 2008 model which, strangely, no one else seemed interested in. It came with a Chris King headset and Salsa seatpost & stem. I managed to resist the first time it appeared, but when it was relisted at an even lower price, I caved in and bid. I was the only one who did, and it was all mine for only $280. Soon after, also from TradeMe I bought a set of wheels - Mavic OpenPro rims, Shimano Ultegra hubs, with 72 spokes between them. I hid the wheels & the frame behind the couch for a few weeks while I scoured various exotic corners of the Internet for more parts.
+Last year I was pottering about on TradeMe, looking for nothing in particular, when I came across a Salsa Casseroll frame. It was a 2008 model which, strangely, no one else seemed interested in. It came with a Chris King headset and Salsa seatpost & stem. I managed to resist the first time it appeared, but when it was relisted at an even lower price, I caved in and bid. I was the only one who did, and it was all mine for only $280. Soon after, also from TradeMe I bought a set of wheels - Mavic OpenPro rims, Shimano Ultegra hubs, with 72 spokes between them. I hid the wheels & the frame behind the couch for a few weeks while I scoured various exotic corners of the Internet for more parts.
 
 ![image](https://farm4.staticflickr.com/3691/9493850856_5ce86bf01f_c.jpg)
 
